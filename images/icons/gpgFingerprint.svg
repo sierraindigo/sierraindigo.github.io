@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <mask id="mask-powermask-path-effect21960" maskUnits="userSpaceOnUse">
+   <path id="mask-powermask-path-effect21960_box" d="m2.6848-0.8774h18.63v25.756h-18.63z" fill="#fff"/>
+   <text x="12.053106" y="19.741982" font-family="Verdana" font-size="7.0169px" stroke-width=".87711" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="12.053106" y="19.741982" stroke-width=".87711">GPG</tspan></text>
+  </mask>
+ </defs>
+ <path d="m3.6848 10.812h1.1879v-3.5637a7.1273 7.1273 0 0 1 14.255 0v3.5637h1.1879v13.067h-16.63m13.067-13.067v-3.5637a4.7515 4.7515 0 1 0-9.5031 0v3.5637" fill="#fff" mask="url(#mask-powermask-path-effect21960)" stroke-width="1.1879"/>
+</svg>
