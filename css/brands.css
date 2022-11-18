@@ -262,6 +262,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* GPG fingerprint */
+.button.button-gpgFingerprint {
+  color: #64a51d;
+  background-color: #2c3440;
+}
+.button.button-gpgFingerprint:hover,
+.button.button-gpgFingerprint:focus {
+  filter: brightness(90%);
+}
+
 /* Instagram */
 .button.button-instagram {
   color: #ffffff;
@@ -269,6 +279,16 @@ button:hover,
 }
 .button.button-instagram:hover,
 .button.button-instagram:focus {
+  filter: brightness(90%);
+}
+
+/* Itaku */
+.button.button-itaku {
+  color: #000000;
+  background-color: #ffeb3b;
+}
+.button.button-itaku:hover,
+.button.button-itaku:focus {
   filter: brightness(90%);
 }
 
@@ -292,6 +312,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Letterboxd */
+.button.button-letterboxd {
+  color: #ffffff;
+  background-color: #2c3440;
+}
+.button.button-letterboxd:hover,
+.button.button-letterboxd:focus {
+  filter: brightness(90%);
+}
+
 /* LinkedIn */
 .button.button-linked {
   color: #ffffff;
@@ -299,6 +329,16 @@ button:hover,
 }
 .button.button-linked:hover,
 .button.button-linked:focus {
+  filter: brightness(90%);
+}
+
+/* LittleLink */
+.button.button-littlelink {
+  color: #ffffff;
+  background-color: #0085ff;
+}
+.button.button-littlelink:hover,
+.button.button-littlelink:focus {
   filter: brightness(90%);
 }
 
@@ -626,35 +666,5 @@ button:hover,
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
-  filter: brightness(90%);
-}
-
-/* Letterboxd */
-.button.button-letterboxd {
-  color: #ffffff;
-  background-color: #2c3440;
-}
-.button.button-letterboxd:hover,
-.button.button-letterboxd:focus {
-  filter: brightness(90%);
-}
-
-/* GPG fingerprint */
-.button.button-gpgFingerprint {
-  color: #64a51d;
-  background-color: #2c3440;
-}
-.button.button-gpgFingerprint:hover,
-.button.button-gpgFingerprint:focus {
-  filter: brightness(90%);
-}
-
-/* LittleLink */
-.button.button-littlelink {
-  color: #ffffff;
-  background-color: #0085ff;
-}
-.button.button-letterboxd:hover,
-.button.button-letterboxd:focus {
   filter: brightness(90%);
 }
