@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:ops@s233.dog
+Expires: 2024-10-31T23:59:00.000Z
+Preferred-Languages: en
+Canonical: https://s233.dog/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRnLXtDQSZcJsGMhEmuXPnIUUNVoQUCZSOhKgAKCRCuXPnIUUNV
+oSVxAQDD2EIEnMDRo3qSF6AeHfMYBVk39DM2xuYT4StLwh0SkQEAna85LxgzeVI0
+aZj8ESrgaJK1CXTQKG9kwbmLqROrXAg=
+=R6Bm
+-----END PGP SIGNATURE-----
