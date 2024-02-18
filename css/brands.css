@@ -77,7 +77,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #0085ff;
+  background-color: #2457F5;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -342,16 +342,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* LittleLink */
-.button.button-littlelink {
-  color: #ffffff;
-  background-color: #0085ff;
-}
-.button.button-littlelink:hover,
-.button.button-littlelink:focus {
-  filter: brightness(90%);
-}
-
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
@@ -360,6 +350,17 @@ button:hover,
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
   filter: brightness(90%);
+}
+
+/* Matrix */
+.button.button-matrix {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-matrix:hover,
+.button.button-matrix:focus {
+  /* filter: brightness(90%); */
+  background-color: #111111;
 }
 
 /* Medium */
