@@ -356,11 +356,13 @@ button:hover,
 .button.button-matrix {
   color: #ffffff;
   background-color: #000000;
+  border: 1px solid #333333;  
 }
 .button.button-matrix:hover,
 .button.button-matrix:focus {
   /* filter: brightness(90%); */
   background-color: #111111;
+  border: 1px solid #777777;
 }
 
 /* Medium */
