@@ -274,7 +274,8 @@ button:hover,
 
 /* GPG fingerprint */
 .button.button-gpgFingerprint {
-  color: #64a51d;
+  /* color: #64a51d; */
+  color: #fff;
   background-color: #2c3440;
 }
 .button.button-gpgFingerprint:hover,
